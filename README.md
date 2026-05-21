@@ -8,7 +8,7 @@
 
 - 🌌 I am in my second year of MPhys Physics at the University of Exeter
 - ⚙️ I'm interested in computational modelling and simulations
-- 💻 I'm currently developing my Python and software engineering skills through projects and internship work
+- 💻 I'm currently developing Python and scientific software skills through projects and internship work
 
 ## Currently Exploring
 
