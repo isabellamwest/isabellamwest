@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center"> Isabella West </h1>
 
-<!--
-**isabellamwest/isabellamwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  MPhys Physics Student • Python • Computational Modelling
+</p>
 
-Here are some ideas to get you started:
+## About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌌 I am in my second year of MPhys Physics at the University of Exeter
+- ⚙️ I'm interested in computational modelling and simulations
+- 💻 I'm currently developing my Python and software engineering skills through projects and internship work
+
+## Currently Exploring
+
+- Python GUI and scientific software development 
+- Random walks and Brownian Motion
+- Numerical simulation and modelling
+
+## Technical Skills 
+
+Python • NumPy • Matplotlib • SciPy • Scientific Computing
