@@ -1,9 +1,5 @@
 <h1 align="center"> Isabella West </h1>
 
-<p align="center">
-  MPhys Physics Student • Python • Computational Modelling
-</p>
-
 ## About Me 
 
 - 🌌 I am in my second year of MPhys Physics at the University of Exeter
