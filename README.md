@@ -2,15 +2,8 @@
 
 ## About Me 
 
-- 🌌 I am in my second year of MPhys Physics at the University of Exeter
-- ⚙️ I'm interested in computational modelling and simulations
+- 🌌 I am in my second year of BSc Physics
 - 💻 I'm currently developing Python and scientific software skills through projects and internship work
-
-## Currently Exploring
-
-- Python GUI and scientific software development 
-- Random walks and Brownian Motion
-- Numerical simulation and modelling
 
 ## Technical Skills 
 
